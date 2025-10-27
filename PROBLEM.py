@@ -1,0 +1,4 @@
+Problem 1: Program to find the sum of two numbers
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+print("Sum =", a + b)
